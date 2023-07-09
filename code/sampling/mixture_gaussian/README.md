@@ -1,0 +1,1 @@
+Experiments with sampling from the 5-mode mixture Gaussian distribution.

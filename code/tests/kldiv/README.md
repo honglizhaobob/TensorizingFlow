@@ -1,0 +1,1 @@
+Checking properties of probability densities and KL divergence

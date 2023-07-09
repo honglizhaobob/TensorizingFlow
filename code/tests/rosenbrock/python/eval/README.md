@@ -1,0 +1,2 @@
+Tests that MATLAB and Python scripts for Rosenbrock class target distributions are consistent. The target distributions
+are rescaled into $[-1,1]^d$. Evaluates the target distribution function on $5\times 10^3$ sampled points, and manually checks that the values are the same.

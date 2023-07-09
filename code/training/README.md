@@ -1,0 +1,1 @@
+This directory contains problem-specific code implemented in PyTorch for training normalizing flows to minimize the variational lower bound (ELBO). In particular, the base distribution is given by samples from continuous tensor-trains.
