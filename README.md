@@ -16,3 +16,11 @@ Custom MATLAB libraries:
 
 * TT-IRT: https://github.com/dolgov/tt-irt
 
+Publications and Preprints
+---
+
+[Tensorizing flows: a tool for variational inference](https://arxiv.org/abs/2305.02460)
+
+[High-dimensional density estimation with tensorizing flow (2023)](https://link.springer.com/article/10.1007/s40687-023-00395-x)
+
+
