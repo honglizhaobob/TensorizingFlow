@@ -19,7 +19,7 @@ Custom MATLAB libraries:
 Publications and Preprints
 ---
 
-[Tensorizing flows: a tool for variational inference](https://arxiv.org/abs/2305.02460)
+[Tensorizing flows: a tool for variational inference (2023)](https://arxiv.org/abs/2305.02460)
 
 [High-dimensional density estimation with tensorizing flow (2023)](https://link.springer.com/article/10.1007/s40687-023-00395-x)
 
