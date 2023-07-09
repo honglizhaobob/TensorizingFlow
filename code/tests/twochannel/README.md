@@ -1,0 +1,1 @@
+Numerical testing of tensor-train sampling for the two channel path example. 

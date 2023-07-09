@@ -1,0 +1,216 @@
+>> Temperature = 2.000000
+
+  42.484461227417938
+
+=amen_cross_s= swp=1, max_dx=1.000e+00, max_rank=5, max_n=81, cum#ievals=0, cum#fevals=445905
+=amen_cross_s= swp=2, max_dx=1.331e+00, max_rank=9, max_n=81, cum#ievals=0, cum#fevals=959688
+=amen_cross_s= swp=3, max_dx=1.248e+00, max_rank=10, max_n=81, cum#ievals=0, cum#fevals=1635471
+=amen_cross_s= swp=4, max_dx=1.111e+00, max_rank=12, max_n=81, cum#ievals=0, cum#fevals=2549637
+=amen_cross_s= swp=5, max_dx=1.000e+00, max_rank=15, max_n=81, cum#ievals=0, cum#fevals=3808782
+=amen_cross_s= swp=6, max_dx=9.977e-01, max_rank=19, max_n=81, cum#ievals=0, cum#fevals=5751729
+=amen_cross_s= swp=7, max_dx=9.897e-01, max_rank=23, max_n=81, cum#ievals=0, cum#fevals=8689437
+=amen_cross_s= swp=8, max_dx=9.851e-01, max_rank=27, max_n=81, cum#ievals=0, cum#fevals=12848301
+=amen_cross_s= swp=9, max_dx=9.766e-01, max_rank=31, max_n=81, cum#ievals=0, cum#fevals=18495864
+=amen_cross_s= swp=10, max_dx=9.424e-01, max_rank=35, max_n=81, cum#ievals=0, cum#fevals=25859655
+=amen_cross_s= swp=11, max_dx=9.346e-01, max_rank=39, max_n=81, cum#ievals=0, cum#fevals=35144766
+=amen_cross_s= swp=12, max_dx=9.243e-01, max_rank=43, max_n=81, cum#ievals=0, cum#fevals=46582695
+=amen_cross_s= swp=13, max_dx=9.505e-01, max_rank=47, max_n=81, cum#ievals=0, cum#fevals=60395868
+=amen_cross_s= swp=14, max_dx=8.020e-01, max_rank=51, max_n=81, cum#ievals=0, cum#fevals=76798692
+=amen_cross_s= swp=15, max_dx=8.126e-01, max_rank=55, max_n=81, cum#ievals=0, cum#fevals=96073938
+=amen_cross_s= swp=16, max_dx=7.073e-01, max_rank=59, max_n=81, cum#ievals=0, cum#fevals=118489878
+=amen_cross_s= swp=17, max_dx=8.494e-01, max_rank=63, max_n=81, cum#ievals=0, cum#fevals=144258651
+=amen_cross_s= swp=18, max_dx=6.984e-01, max_rank=67, max_n=81, cum#ievals=0, cum#fevals=173633706
+=amen_cross_s= swp=19, max_dx=6.009e-01, max_rank=71, max_n=81, cum#ievals=0, cum#fevals=206892549
+=amen_cross_s= swp=20, max_dx=6.143e-01, max_rank=75, max_n=81, cum#ievals=0, cum#fevals=244303209
+=amen_cross_s= swp=21, max_dx=6.289e-01, max_rank=79, max_n=81, cum#ievals=0, cum#fevals=286076529
+=amen_cross_s= swp=22, max_dx=4.466e-01, max_rank=83, max_n=81, cum#ievals=0, cum#fevals=332478270
+=amen_cross_s= swp=23, max_dx=4.656e-01, max_rank=87, max_n=81, cum#ievals=0, cum#fevals=383747706
+=amen_cross_s= swp=24, max_dx=7.421e-01, max_rank=91, max_n=81, cum#ievals=0, cum#fevals=440147763
+=amen_cross_s= swp=25, max_dx=5.360e-01, max_rank=95, max_n=81, cum#ievals=0, cum#fevals=501914070
+=amen_cross_s= swp=26, max_dx=4.360e-01, max_rank=99, max_n=81, cum#ievals=0, cum#fevals=569213892
+=amen_cross_s= swp=27, max_dx=3.260e-01, max_rank=103, max_n=81, cum#ievals=0, cum#fevals=642279618
+=amen_cross_s= swp=28, max_dx=1.652e-01, max_rank=107, max_n=81, cum#ievals=0, cum#fevals=721324764
+=amen_cross_s= swp=29, max_dx=2.480e-01, max_rank=111, max_n=81, cum#ievals=0, cum#fevals=806597028
+=amen_cross_s= swp=30, max_dx=1.508e-01, max_rank=115, max_n=81, cum#ievals=0, cum#fevals=898458966
+=amen_cross_s= swp=31, max_dx=2.451e-01, max_rank=119, max_n=81, cum#ievals=0, cum#fevals=997153659
+=amen_cross_s= swp=32, max_dx=3.399e-01, max_rank=123, max_n=81, cum#ievals=0, cum#fevals=1102880448
+=amen_cross_s= swp=33, max_dx=2.500e-01, max_rank=127, max_n=81, cum#ievals=0, cum#fevals=1215905175
+=amen_cross_s= swp=34, max_dx=1.262e-01, max_rank=131, max_n=81, cum#ievals=0, cum#fevals=1336483881
+=amen_cross_s= swp=35, max_dx=6.949e-02, max_rank=135, max_n=81, cum#ievals=0, cum#fevals=1464861834
+=amen_cross_s= swp=36, max_dx=1.028e-01, max_rank=139, max_n=81, cum#ievals=0, cum#fevals=1601310303
+=amen_cross_s= swp=37, max_dx=1.636e-01, max_rank=143, max_n=81, cum#ievals=0, cum#fevals=1746056736
+=amen_cross_s= swp=38, max_dx=3.785e-01, max_rank=147, max_n=81, cum#ievals=0, cum#fevals=1899370377
+=amen_cross_s= swp=39, max_dx=2.058e-01, max_rank=151, max_n=81, cum#ievals=0, cum#fevals=2061412821
+=amen_cross_s= swp=40, max_dx=1.873e-01, max_rank=155, max_n=81, cum#ievals=0, cum#fevals=2232458982
+=amen_cross_s= swp=41, max_dx=1.555e-01, max_rank=159, max_n=81, cum#ievals=0, cum#fevals=2412743922
+=amen_cross_s= swp=42, max_dx=9.845e-02, max_rank=163, max_n=81, cum#ievals=0, cum#fevals=2602548144
+=amen_cross_s= swp=43, max_dx=1.863e-01, max_rank=167, max_n=81, cum#ievals=0, cum#fevals=2802057867
+=amen_cross_s= swp=44, max_dx=1.714e-01, max_rank=171, max_n=81, cum#ievals=0, cum#fevals=3011562747
+=amen_cross_s= swp=45, max_dx=2.637e-01, max_rank=175, max_n=81, cum#ievals=0, cum#fevals=3231318744
+=amen_cross_s= swp=46, max_dx=1.031e-01, max_rank=179, max_n=81, cum#ievals=0, cum#fevals=3461530221
+=amen_cross_s= swp=47, max_dx=5.874e-02, max_rank=183, max_n=81, cum#ievals=0, cum#fevals=3702423573
+=amen_cross_s= swp=48, max_dx=6.205e-02, max_rank=187, max_n=81, cum#ievals=0, cum#fevals=3954224628
+=amen_cross_s= swp=49, max_dx=5.907e-02, max_rank=191, max_n=81, cum#ievals=0, cum#fevals=4217180436
+=amen_cross_s= swp=50, max_dx=8.400e-02, max_rank=195, max_n=81, cum#ievals=0, cum#fevals=4491511479
+=amen_cross_s= swp=51, max_dx=6.863e-02, max_rank=199, max_n=81, cum#ievals=0, cum#fevals=4777418718
+=amen_cross_s= swp=52, max_dx=7.340e-02, max_rank=203, max_n=81, cum#ievals=0, cum#fevals=5075283501
+=amen_cross_s= swp=53, max_dx=5.164e-02, max_rank=207, max_n=81, cum#ievals=0, cum#fevals=5385373614
+=amen_cross_s= swp=54, max_dx=2.511e-02, max_rank=211, max_n=81, cum#ievals=0, cum#fevals=5707908729
+=amen_cross_s= swp=55, max_dx=3.986e-02, max_rank=215, max_n=81, cum#ievals=0, cum#fevals=6043088511
+=amen_cross_s= swp=56, max_dx=8.881e-02, max_rank=219, max_n=81, cum#ievals=0, cum#fevals=6391240767
+=amen_cross_s= swp=57, max_dx=2.180e-02, max_rank=223, max_n=81, cum#ievals=0, cum#fevals=6752556900
+=amen_cross_s= swp=58, max_dx=2.106e-02, max_rank=227, max_n=81, cum#ievals=0, cum#fevals=7127239977
+=amen_cross_s= swp=59, max_dx=1.977e-02, max_rank=231, max_n=81, cum#ievals=0, cum#fevals=7515543933
+=amen_cross_s= swp=60, max_dx=2.429e-02, max_rank=235, max_n=81, cum#ievals=0, cum#fevals=7917713469
+=amen_cross_s= swp=61, max_dx=1.949e-02, max_rank=239, max_n=81, cum#ievals=0, cum#fevals=8333761869
+=amen_cross_s= swp=62, max_dx=2.163e-02, max_rank=243, max_n=81, cum#ievals=0, cum#fevals=8764058412
+=amen_cross_s= swp=63, max_dx=2.179e-02, max_rank=247, max_n=81, cum#ievals=0, cum#fevals=9208888947
+=amen_cross_s= swp=64, max_dx=1.820e-02, max_rank=251, max_n=81, cum#ievals=0, cum#fevals=9668591892
+=amen_cross_s= swp=65, max_dx=2.241e-02, max_rank=255, max_n=81, cum#ievals=0, cum#fevals=10143320580
+=amen_cross_s= swp=66, max_dx=1.329e-02, max_rank=259, max_n=81, cum#ievals=0, cum#fevals=10633350978
+=amen_cross_s= swp=67, max_dx=1.484e-02, max_rank=263, max_n=81, cum#ievals=0, cum#fevals=11138906322
+=amen_cross_s= swp=68, max_dx=7.984e-03, max_rank=267, max_n=81, cum#ievals=0, cum#fevals=11660156955
+=amen_cross_s= swp=69, max_dx=9.740e-03, max_rank=271, max_n=81, cum#ievals=0, cum#fevals=12197356650
+=amen_cross_s= swp=70, max_dx=1.256e-02, max_rank=275, max_n=81, cum#ievals=0, cum#fevals=12750648210
+=amen_cross_s= swp=71, max_dx=1.271e-02, max_rank=279, max_n=81, cum#ievals=0, cum#fevals=13320459072
+=amen_cross_s= swp=72, max_dx=1.541e-02, max_rank=283, max_n=81, cum#ievals=0, cum#fevals=13907065365
+=amen_cross_s= swp=73, max_dx=1.268e-02, max_rank=287, max_n=81, cum#ievals=0, cum#fevals=14510610216
+=amen_cross_s= swp=74, max_dx=1.331e-02, max_rank=291, max_n=81, cum#ievals=0, cum#fevals=15131290293
+=amen_cross_s= swp=75, max_dx=1.817e-02, max_rank=295, max_n=81, cum#ievals=0, cum#fevals=15769432269
+=amen_cross_s= swp=76, max_dx=1.341e-02, max_rank=299, max_n=81, cum#ievals=0, cum#fevals=16425332280
+=amen_cross_s= swp=77, max_dx=1.614e-02, max_rank=303, max_n=81, cum#ievals=0, cum#fevals=17099043786
+=amen_cross_s= swp=78, max_dx=1.578e-02, max_rank=307, max_n=81, cum#ievals=0, cum#fevals=17790943923
+=amen_cross_s= swp=79, max_dx=1.768e-02, max_rank=311, max_n=81, cum#ievals=0, cum#fevals=18501248394
+=amen_cross_s= swp=80, max_dx=1.129e-02, max_rank=315, max_n=81, cum#ievals=0, cum#fevals=19229987898
+=amen_cross_s= swp=81, max_dx=8.977e-03, max_rank=319, max_n=81, cum#ievals=0, cum#fevals=19977477039
+=amen_cross_s= swp=82, max_dx=8.528e-03, max_rank=323, max_n=81, cum#ievals=0, cum#fevals=20744288649
+=amen_cross_s= swp=83, max_dx=1.061e-02, max_rank=327, max_n=81, cum#ievals=0, cum#fevals=21530525760
+=amen_cross_s= swp=84, max_dx=1.004e-02, max_rank=331, max_n=81, cum#ievals=0, cum#fevals=22336319997
+=amen_cross_s= swp=85, max_dx=7.120e-03, max_rank=335, max_n=81, cum#ievals=0, cum#fevals=23162027679
+=amen_cross_s= swp=86, max_dx=1.171e-02, max_rank=339, max_n=81, cum#ievals=0, cum#fevals=24007680153
+=amen_cross_s= swp=87, max_dx=1.138e-02, max_rank=343, max_n=81, cum#ievals=0, cum#fevals=24873131862
+=amen_cross_s= swp=88, max_dx=8.473e-03, max_rank=347, max_n=81, cum#ievals=0, cum#fevals=25759179279
+=amen_cross_s= swp=89, max_dx=9.235e-03, max_rank=351, max_n=81, cum#ievals=0, cum#fevals=26665805718
+=amen_cross_s= swp=90, max_dx=1.238e-02, max_rank=355, max_n=81, cum#ievals=0, cum#fevals=27592340661
+=amen_cross_s= swp=91, max_dx=8.033e-03, max_rank=359, max_n=81, cum#ievals=0, cum#fevals=28540269486
+=amen_cross_s= swp=92, max_dx=1.140e-02, max_rank=363, max_n=81, cum#ievals=0, cum#fevals=29509960986
+=amen_cross_s= swp=93, max_dx=8.322e-03, max_rank=367, max_n=81, cum#ievals=0, cum#fevals=30501472914
+=amen_cross_s= swp=94, max_dx=8.303e-03, max_rank=371, max_n=81, cum#ievals=0, cum#fevals=31515116472
+=amen_cross_s= swp=95, max_dx=9.129e-03, max_rank=375, max_n=81, cum#ievals=0, cum#fevals=32551094079
+=amen_cross_s= swp=96, max_dx=1.361e-02, max_rank=379, max_n=81, cum#ievals=0, cum#fevals=33609663720
+=amen_cross_s= swp=97, max_dx=1.467e-02, max_rank=383, max_n=81, cum#ievals=0, cum#fevals=34690959369
+=amen_cross_s= swp=98, max_dx=1.047e-02, max_rank=387, max_n=81, cum#ievals=0, cum#fevals=35795145213
+=amen_cross_s= swp=99, max_dx=5.906e-03, max_rank=391, max_n=81, cum#ievals=0, cum#fevals=36922395807
+=amen_cross_s= swp=100, max_dx=8.836e-03, max_rank=395, max_n=81, cum#ievals=0, cum#fevals=38073182004
+>> C
+C is a 100-dimensional TT-tensor, ranks and mode sizes: 
+r(1)=1 	 n(1)=81 
+r(2)=25 	 n(2)=81 
+r(3)=131 	 n(3)=81 
+r(4)=288 	 n(4)=81 
+r(5)=361 	 n(5)=81 
+r(6)=375 	 n(6)=81 
+r(7)=382 	 n(7)=81 
+r(8)=388 	 n(8)=81 
+r(9)=391 	 n(9)=81 
+r(10)=391 	 n(10)=81 
+r(11)=391 	 n(11)=81 
+r(12)=391 	 n(12)=81 
+r(13)=390 	 n(13)=81 
+r(14)=392 	 n(14)=81 
+r(15)=390 	 n(15)=81 
+r(16)=391 	 n(16)=81 
+r(17)=389 	 n(17)=81 
+r(18)=388 	 n(18)=81 
+r(19)=390 	 n(19)=81 
+r(20)=389 	 n(20)=81 
+r(21)=393 	 n(21)=81 
+r(22)=388 	 n(22)=81 
+r(23)=389 	 n(23)=81 
+r(24)=388 	 n(24)=81 
+r(25)=393 	 n(25)=81 
+r(26)=391 	 n(26)=81 
+r(27)=393 	 n(27)=81 
+r(28)=391 	 n(28)=81 
+r(29)=391 	 n(29)=81 
+r(30)=394 	 n(30)=81 
+r(31)=390 	 n(31)=81 
+r(32)=392 	 n(32)=81 
+r(33)=392 	 n(33)=81 
+r(34)=392 	 n(34)=81 
+r(35)=393 	 n(35)=81 
+r(36)=392 	 n(36)=81 
+r(37)=390 	 n(37)=81 
+r(38)=390 	 n(38)=81 
+r(39)=391 	 n(39)=81 
+r(40)=391 	 n(40)=81 
+r(41)=391 	 n(41)=81 
+r(42)=392 	 n(42)=81 
+r(43)=392 	 n(43)=81 
+r(44)=392 	 n(44)=81 
+r(45)=394 	 n(45)=81 
+r(46)=392 	 n(46)=81 
+r(47)=395 	 n(47)=81 
+r(48)=389 	 n(48)=81 
+r(49)=389 	 n(49)=81 
+r(50)=387 	 n(50)=81 
+r(51)=353 	 n(51)=81 
+r(52)=386 	 n(52)=81 
+r(53)=387 	 n(53)=81 
+r(54)=389 	 n(54)=81 
+r(55)=388 	 n(55)=81 
+r(56)=388 	 n(56)=81 
+r(57)=391 	 n(57)=81 
+r(58)=389 	 n(58)=81 
+r(59)=390 	 n(59)=81 
+r(60)=392 	 n(60)=81 
+r(61)=393 	 n(61)=81 
+r(62)=394 	 n(62)=81 
+r(63)=391 	 n(63)=81 
+r(64)=393 	 n(64)=81 
+r(65)=393 	 n(65)=81 
+r(66)=394 	 n(66)=81 
+r(67)=388 	 n(67)=81 
+r(68)=385 	 n(68)=81 
+r(69)=387 	 n(69)=81 
+r(70)=387 	 n(70)=81 
+r(71)=390 	 n(71)=81 
+r(72)=392 	 n(72)=81 
+r(73)=392 	 n(73)=81 
+r(74)=391 	 n(74)=81 
+r(75)=392 	 n(75)=81 
+r(76)=392 	 n(76)=81 
+r(77)=393 	 n(77)=81 
+r(78)=393 	 n(78)=81 
+r(79)=392 	 n(79)=81 
+r(80)=392 	 n(80)=81 
+r(81)=394 	 n(81)=81 
+r(82)=391 	 n(82)=81 
+r(83)=387 	 n(83)=81 
+r(84)=388 	 n(84)=81 
+r(85)=386 	 n(85)=81 
+r(86)=391 	 n(86)=81 
+r(87)=388 	 n(87)=81 
+r(88)=388 	 n(88)=81 
+r(89)=387 	 n(89)=81 
+r(90)=389 	 n(90)=81 
+r(91)=389 	 n(91)=81 
+r(92)=389 	 n(92)=81 
+r(93)=383 	 n(93)=81 
+r(94)=382 	 n(94)=81 
+r(95)=377 	 n(95)=81 
+r(96)=367 	 n(96)=81 
+r(97)=361 	 n(97)=81 
+r(98)=280 	 n(98)=81 
+r(99)=137 	 n(99)=81 
+r(100)=24 	 n(100)=81 
+r(101)=1 
+>> save("noneq_tpt_100cross_rank395.mat")
+Warning: Variable 'C' was not saved. For variables larger than 2GB use MAT-file version
+7.3 or later. 
+Warning: Variable 'coeff_tt' was not saved. For variables larger than 2GB use MAT-file
+version 7.3 or later. 
+>> save("noneq_tpt_100cross_rank395.mat",'-v7.3')
+>> norm(C)
+
+5.318675616758468e-45
